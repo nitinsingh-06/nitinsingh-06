@@ -23,19 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitinsingh-06&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsingh-06&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=nitinsingh-06&theme=radical&border_radius=6)  
-
----
-
-## 📈 Activity Graph  
-
-![Nitin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitinsingh-06&theme=react-dark&hide_border=true&area=true)
-
----
 
 ## 🌟 Featured Projects  
 
