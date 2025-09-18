@@ -29,7 +29,7 @@
 
 🔹 [WEB DEVELOPMENT - Learning Web Development , HTML,CSS,JS
 🔹 [DSA in C++](#) – Practice repo with solved Data Structures & Algorithms problems.  
-🔹 [AI & ML Learning Projects](#) – Small ML models & experiments.  
+
 
 ---
 
