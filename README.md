@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nitin Singh  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F75D&lines=AI+%26+ML+Enthusiast;Python+%7C+C%2B%2B+%7C+DSA+Learner;B.Tech+Student+%7C+Aspiring+AI+Engineer;)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F75D&lines=AI+%26+ML+Enthusiast;Python+%7C+C%2B%2B+%7C+DSA+Learner;B.Tech+Student+%7C+Aspiring+AI+Engineer;)
 
 
 🎓 B.Tech 1st Year Student (AI & ML)  
