@@ -15,22 +15,32 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-272D2D?style=for-the-badge&logo=c&logoColor=white)
 
-### Web Development  
+### App Development  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+---
+
+### Web Basics
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+---
 
 ### Tools & Platforms  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git%20Bash-000000?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
 
 ---
 
 
 ## 🌟 Featured Projects  
 
-🔹 [WEB DEVELOPMENT - Learning Web Development , HTML,CSS,JS
+🔹 [Flutter App Development](#) – Learning Flutter and building mobile applications. 
 🔹 [DSA in C++](#) – Practice repo with solved Data Structures & Algorithms problems.  
 
 
