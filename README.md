@@ -37,6 +37,23 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=nitinsingh-06&theme=react&hide_border=true&background=0D1117&stroke=f39c12&ring=f39c12&fire=f1c40f&currStreakLabel=f39c12&dates=FFFFFF" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinsingh-06&bg_color=0D1117&color=f39c12&line=f39c12&point=f1c40f&area=true&hide_border=true" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+
+
+
 
 ## 🌟 Featured Projects  
 
