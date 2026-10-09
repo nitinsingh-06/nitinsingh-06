@@ -57,7 +57,7 @@
 
 - 💻 Data Structures & Algorithms in C++
 - 🧩 Competitive Programming & Problem Solving
-- 🔥 Regular LeetCode Practice
+- 🔥 LeetCode Practice
 
 ---
 
