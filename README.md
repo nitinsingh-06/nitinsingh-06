@@ -109,11 +109,9 @@ Building mobile applications using Flutter and Dart, with an emphasis on UI deve
 
 <div align="center">
 
-
 ### 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=nitinsingh-06&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
+<img src="https://streak-stats.demolab.com?user=nitinsingh-06&background=0D1117&border=00F75D&stroke=7C3AED&ring=39FF14&fire=FFB000&currStreakNum=00F75D&sideNums=00F0FF&currStreakLabel=39FF14&sideLabels=00F0FF&dates=C9D1D9&hide_border=false" alt="GitHub Contribution Streak"/>
 
 </div>
 
