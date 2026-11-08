@@ -132,7 +132,6 @@ Building mobile applications using Flutter and Dart, with an emphasis on UI deve
 
 * 🚀 Build practical, real-world software projects.
 * 📱 Improve Flutter application development skills.
-* 🤖 Develop a strong foundation in Machine Learning and AI.
 * 🧠 Strengthen DSA and problem-solving abilities.
 * 💼 Prepare for software development and AI/ML internships.
 * 🌱 Learn continuously by building and contributing to projects.
